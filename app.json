@@ -2,7 +2,7 @@
   "name": "@ArnabXD/TGVCBot",
   "description": "Telegram Bot to Play Music in Voice Chat",
   "keywords": ["telegram", "vc", "music"],
-  "repository": "https://github.com/ArnabXD/TGVCBot",
+  "repository": "https://github.com/dqanshi/TGVCBot",
   "logo": "https://telegra.ph/file/dd7933d25477c161b7d52.png",
   "success_url": "https://telegram.dog/xdbots",
   "env": {
